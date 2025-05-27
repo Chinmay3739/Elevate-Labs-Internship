@@ -1,1 +1,0 @@
-In this task we done into the process of properly analysing your network for security risks. All of the neccesary information related to the task is in the Task1_report.pdf file in the day1Internship directory.
