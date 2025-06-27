@@ -1,0 +1,5 @@
+; ls
+| whoami
+&& cat /etc/passwd
+|| dir
+; ping -c 1 google.com

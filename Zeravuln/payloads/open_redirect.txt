@@ -1,0 +1,5 @@
+http://evil.com
+//evil.com
+/redirect?next=http://evil.com
+?url=http://evil.com
+?redirect=http://evil.com

